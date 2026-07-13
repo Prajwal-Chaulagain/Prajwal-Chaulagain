@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Sample.jpg" alt="Header Image" width="800">
+  <img src="Sample.jpg" alt="Header Image" width="300" height="100">
 </div>
 
 <div align="center">
