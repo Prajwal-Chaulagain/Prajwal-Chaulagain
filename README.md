@@ -7,8 +7,8 @@
 </div>
 
 <br/>
-
-<br><br>   About Me   <br> **I’m currently working on:**  <br>I am currently learning Web Development.<br><br>
+ 
+##  👋About Me   <br> **I’m currently working on:**  <br>I am currently learning Web Development.<br><br>
 
 ## 🚀 Skills & Tools
 
