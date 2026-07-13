@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Sample.jpg" alt="Header Image" width="500" height="500">
+  <img src="Sample.jpg" alt="Header Image" width="500" height="600">
 </div>
 
 <div align="center">
@@ -8,7 +8,8 @@
 
 <br/>
  
-##  👋About Me   <br> **I’m currently working on:**  <br>I am currently learning Web Development.<br><br>
+##  👋About Me   
+<br> **I’m currently working on:**  <br>I am currently learning Web Development.<br><br>
 
 ## 🚀 Skills & Tools
 
